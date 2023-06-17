@@ -20,5 +20,6 @@ class AcoesRepository {
       sigla: 'ML',
       preco: 48.10,
     ),
+    
   ];
 }
