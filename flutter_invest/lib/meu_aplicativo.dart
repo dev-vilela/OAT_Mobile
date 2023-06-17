@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_invest/pages/acoespages.dart';
 
+
 class MeuAplicativo extends StatelessWidget {
   const MeuAplicativo({Key? key}) : super(key: key);
 
